@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactAppMobile/static/css/main.7f4f5d44.css",
+    "main.js": "/ReactAppMobile/static/js/main.9fde3308.js",
+    "static/js/787.cf3d4b08.chunk.js": "/ReactAppMobile/static/js/787.cf3d4b08.chunk.js",
+    "index.html": "/ReactAppMobile/index.html",
+    "main.7f4f5d44.css.map": "/ReactAppMobile/static/css/main.7f4f5d44.css.map",
+    "main.9fde3308.js.map": "/ReactAppMobile/static/js/main.9fde3308.js.map",
+    "787.cf3d4b08.chunk.js.map": "/ReactAppMobile/static/js/787.cf3d4b08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f4f5d44.css",
+    "static/js/main.9fde3308.js"
+  ]
+}
